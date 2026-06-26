@@ -283,9 +283,10 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 - [NazeDev](https://github.com/nazedev) (Pembuat)
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
 - [Dani](https://github.com/nazedev) (Penyumbang Code)
-
+- [Zenn](https://github.com/zenn-atomic) (Penyumbang code)
+  
 ## Thanks to
 
-| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
+| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zenn](https://github.com/zenn-atomic.png?size=100)](https://github.com/zenn-atomic) |
 | --- | --- | --- | --- |
-| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [Zenn](https://github.com/zenn-atomic) |

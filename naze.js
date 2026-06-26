@@ -4340,14 +4340,12 @@ Select Bot Settings:
 ├ *Time* : ${date_time}
 ╰──────❍
 ╭──❍「 *BOT* 」❍
-│${setv} ${prefix}profile
 │${setv} ${prefix}claim
 │${setv} ${prefix}buy [item] (nominal)
 │${setv} ${prefix}transfer
 │${setv} ${prefix}leaderboard
 │${setv} ${prefix}runtime
 │${setv} ${prefix}rvo (reply pesan viewone)
-│${setv} ${prefix}inspect (url gc)
 │${setv} ${prefix}menfes (62xxx|fake name)
 │${setv} ${prefix}confes (62xxx|fake name)
 ╰─┬────❍
@@ -4360,10 +4358,7 @@ Select Bot Settings:
 │${setv} ${prefix}ringtone (query)
 │${setv} ${prefix}google (query)
 │${setv} ${prefix}gimage (query)
-│${setv} ${prefix}npm (query)
-│${setv} ${prefix}style (query)
 │${setv} ${prefix}cuaca (kota)
-│${setv} ${prefix}tenor (query)
 │${setv} ${prefix}urban (query)
 ╰─┬────❍
 ╭─┴❍「 *DOWNLOAD* 」❍
@@ -4395,18 +4390,6 @@ Select Bot Settings:
 │${setv} ${prefix}emojimix 😂+💀
 │${setv} ${prefix}qc (pesannya)
 │${setv} ${prefix}translate
-│${setv} ${prefix}fat (reply audio)
-│${setv} ${prefix}fast (reply audio)
-│${setv} ${prefix}bass (reply audio)
-│${setv} ${prefix}slow (reply audio)
-│${setv} ${prefix}tupai (reply audio)
-│${setv} ${prefix}deep (reply audio)
-│${setv} ${prefix}robot (reply audio)
-│${setv} ${prefix}blown (reply audio)
-│${setv} ${prefix}reverse (reply audio)
-│${setv} ${prefix}smooth (reply audio)
-│${setv} ${prefix}earrape (reply audio)
-│${setv} ${prefix}nightcore (reply audio)
 ╰─┬────❍
 ╭─┴❍「 *AI* 」❍
 │${setv} ${prefix}ai (query)

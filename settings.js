@@ -14,9 +14,9 @@ const __filename = fileURLToPath(import.meta.url);
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ["6282113821188"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.author = 'Atomic'
+global.botname = 'Atomic'
+global.packname = '085772176882'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
 global.listprefix = ["+","!","."]
@@ -38,9 +38,9 @@ global.fake = {
 
 global.my = {
 	yt: "https://youtube.com/c/Nazedev",
-	gh: "https://github.com/nazedev",
-	gc: "https://chat.whatsapp.com/EqMTCcxdCZgHUJNl5KooCr",
-	ch: "120363250409960161@newsletter"
+	gh: "https://github.com/zenn-atomic",
+	gc: "",
+	ch: "120363405449592818@newsletter"
 }
 
 global.limit = {
@@ -87,8 +87,8 @@ global.APIKeys = {
 global.jadwalSholat = {
 	Subuh: '04:30',
 	Dzuhur: '12:06',
-	Ashar: '15:21',
-	Maghrib: '18:08',
+	Ashar: '15:00',
+	Maghrib: '18:00',
 	Isya: '19:00'
 }
 
